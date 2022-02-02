@@ -14,7 +14,7 @@ public class Programa {
 
         System.out.println("A area do quadrado é: " + areaQuadrado);
         System.out.println("A area do retangulo é: " + areaRetangulo);
-        System.out.println("A area do quadrado é: " + areaCirculo);
+        System.out.println("A area do circulo é: " + areaCirculo);
 
 
     }
