@@ -10,4 +10,6 @@ public class Supervisor extends Funcionario {
     public double bonificacao(){
         return getSalario() + 5000.00;
     }
+
+
 }

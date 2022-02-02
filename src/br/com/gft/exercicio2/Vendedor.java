@@ -10,4 +10,6 @@ public class Vendedor extends  Funcionario{
     public double bonificacao(){
         return getSalario() + 3000.00;
     }
+
+
 }

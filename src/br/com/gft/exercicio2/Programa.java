@@ -8,6 +8,10 @@ public class Programa {
         Supervisor supervisor = new Supervisor("Claudia", 40, 5000);
         Vendedor vendedor = new Vendedor("Silvia", 30, 3000);
 
-        System.out.println(gerente);
+
+        System.out.println("Gerente: " + gerente);
+        System.out.println("Supervisor: " + supervisor);
+        System.out.println("Vendedor: " + vendedor);
+
     }
 }
