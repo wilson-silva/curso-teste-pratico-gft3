@@ -2,17 +2,17 @@ package br.com.gft.exercicio1;
 
 public class Circulo  implements AreaCalculavel{
 
-    private Double raio;
+    private double raio;
 
-    public Circulo(Double raio) {
+    public Circulo(double raio) {
         this.raio = raio;
     }
 
-    public Double getRaio() {
+    public double getRaio() {
         return raio;
     }
 
-    public void setRaio(Double raio) {
+    public void setRaio(double raio) {
         this.raio = raio;
     }
 

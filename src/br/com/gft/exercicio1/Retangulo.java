@@ -2,27 +2,27 @@ package br.com.gft.exercicio1;
 
 public class Retangulo implements AreaCalculavel {
 
-    private Double largura;
-    private Double altura;
+    private double largura;
+    private double altura;
 
-    public Retangulo(Double largura, Double altura) {
+    public Retangulo(double largura, double altura) {
         this.largura = largura;
         this.altura = altura;
     }
 
-    public Double getLargura() {
+    public double getLargura() {
         return largura;
     }
 
-    public void setLargura(Double largura) {
+    public void setLargura(double largura) {
         this.largura = largura;
     }
 
-    public Double getAltura() {
+    public double getAltura() {
         return altura;
     }
 
-    public void setAltura(Double altura) {
+    public void setAltura(double altura) {
         this.altura = altura;
     }
 
